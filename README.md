@@ -1,4 +1,4 @@
-#Spiess - speech analysis for highlighting emotional characteristics based on MFC coefficients
+# Spiess - speech analysis for highlighting emotional characteristics based on MFC coefficients
 ##  Based on: A Simple MFCC Feature Extractor using C++ STL and C++11 (D S Pavan Kumar)
 ## Main idea
 * Useful application which uses spectrum and cepstrum analysis for getting statisics of human's behaviour.
