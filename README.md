@@ -1,5 +1,8 @@
-# A Simple MFCC Feature Extractor using C++ STL and C++11
-## Features
+#Spiess - speech analysis for highlighting emotional characteristics based on MFC coefficients
+#  Based on: A Simple MFCC Feature Extractor using C++ STL and C++11 (D S Pavan Kumar)
+## Main idea
+* Useful application which uses spectrum and cepstrum analysis for getting statisics of human's behaviour.
+## Features (D S Pavan Kumar)
 * Takes PCM Wave input and outputs MFCCs as comma separated floating point values, each line representing a frame.
 * Supports batch extraction through list input and output.
 * Command line control for window length, frame shift, sampling rate, number of cepstra and filterbank cutoff frequencies.
